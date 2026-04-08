@@ -133,8 +133,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jaikisharma73/jaikisharma73/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+##
 
-<img src="https://raw.githubusercontent.com/jaikisharma73/jaikisharma73/output/snake.svg" alt="Snake animation" />
 
-###
