@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack Developer<br><br>✨ Creating bugs since I started my journey as a Full Stack Developer 😄  <br><br>📚 I'm currently learning Gen AI,  Advanced Data Structures & Algorithms, System Design, and Backend Development  <br><br>🚀 Tech Stack: MERN (MongoDB, Express, React, Node.js), JavaScript, C++, Python  <br><br>🌍 Open to: Internships, freelance work, and collaboration on exciting projects</p>
+<p align="left">I'm a Full Stack Developer<br><br>✨ Creating bugs since I started my journey as a Full Stack Developer 😄  <br><br>📚 I'm currently learning Gen AI,  Advanced Data Structures & Algorithms, System Design, and Backend Development  <br><br>🚀 Tech Stack: MERN Stack (MongoDB, Express, React, Node.js), JavaScript, C++, Python  <br><br>🌍 Open to: Internships, freelance work, and collaboration on exciting projects</p>
 
 ###
 
